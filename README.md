@@ -22,7 +22,7 @@ Welcome to the UsabilityHub Clone project, a web-based platform designed to mimi
 ## HowtoUse
 1. Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/Sais-27/Amazon_clone.git
+   https://github.com/k-agg17/Usability-Hub-Clone.git
 2. Open the [index.html](https://github.com/k-agg17/Usability-Hub-Clone/blob/main/index.html) file in a web browser to see the flipping card in action.
 
 3. You can customize the content on the card by editing the HTML in the index.html file and adjust the styles in the style.css file to match your design preferences.
